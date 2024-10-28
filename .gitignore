@@ -165,6 +165,6 @@ adv-nlp-uts-faa7595a22eb.json
 
 # Corpora
 #   This is to limit the amount of data uploaded to GitHub
-.pdf
-.docx
-.zip
+*.pdf
+*.docx
+*.zip
