@@ -1,0 +1,575 @@
+,#,Question,Answer,RAG 2
+0,1,"What is the main purpose of the Basel III regulatory framework, as implemented in Australia?","The Basel III capital reforms are international banking supervisors  response to deficiencies in the regulatory capital framework identified during the global financial crisis. These reforms were endorsed prior to release by the G20, of which Australia is a member. APRA, as a member of the Basel Committee, played an active role in formulating the Basel III measures. ","The main purpose of the Basel III regulatory framework, as implemented in Australia, is to strengthen the capital and liquidity requirements for banks and other financial institutions. The framework aims to:
+
+1. **Enhance bank stability**: By increasing the minimum levels of common equity tier 1 (CET1) capital and total loss-absorbing capacity (TLAC), Basel III seeks to improve the resilience of banks against potential losses.
+2. **Reduce risk-taking**: By requiring banks to hold more capital and liquidity, Basel III aims to reduce the risk that banks may take on excessive debt or invest in high-risk assets.
+3. **Improve financial stability**: The framework also aims to prevent bank failures by ensuring that banks have sufficient buffers to absorb potential losses.
+
+Key changes introduced by Basel III, as implemented in Australia, include:
+
+1. A minimum CET1 ratio of 7% (compared to 2% under Basel II)
+2. An increase in the total loss-absorbing capacity (TLAC) requirement
+3. New capital requirements for high-risk exposures, such as derivatives and securitization
+4. Enhanced liquidity standards, including a Liquidity Coverage Ratio (LCR)
+
+By strengthening bank capital and liquidity buffers, the Australian Prudential Regulation Authority (APRA) aims to improve financial stability and reduce the risk of systemic crises."
+1,2,Can you explain the difference between an Australian Deposit-Taking Institution (DTI) and a Non-Deposit Taking Institution (NDTI)?,"An Authorised Deposit-taking Institutions (ADIs) is an Australian government term for financial institutions in Australia which are supervised by the Australian Prudential Regulation Authority (APRA) and authorised to accept deposits from the public.Whereas a non-deposit taking institution is a financial institution that does not have a full banking license or is not supervised by a national regulatory authority. These type of lenders are generally privately funded and do not have the normal features of a deposit taking institution (i.e. you cannot use an offset account as they have no facility to hold your funds). Generally it is the non-deposit taking institutions which will offer a non-conforming loan product. A non-conforming loan is a loan that fails to meet bank criteria for funding. This may include situations where the borrower has just started up a business and has a short trading history, has a poor credit history, or an ATO tax debt to be paid off.","I don't know the answer to that specific question, as the provided context does not explicitly define or distinguish between Australian Deposit-Taking Institutions (DTIs) and Non-Deposit Taking Institutions (NDTIs). However, I can suggest that an Australian Deposit-Taking Institution (DTI) is likely a financial institution that accepts deposits from individuals and businesses and also provides loans and other credit products to its customers. On the other hand, a Non-Deposit Taking Institution (NTDI) may engage in similar activities but does not accept deposits or is restricted in its deposit-taking capabilities."
+2,3,How do Australian banks report their exposure to credit risk using the Internal Ratings-Based Approach (IRB)?,"IRB banks must compare regulatory expected losses (which are derived from their estimates of PD, LGD and EAD) against provisions held for credit losses and deduct any shortfall in provisions from the capital base. This leads to an increase in the capital requirement.","I don't know how Australian banks report their exposure to credit risk using the Internal Ratings-Based Approach (IRB), as this information is not explicitly mentioned in the provided context. However, based on the general knowledge of the IRB approach, it is likely that Australian banks would report their exposures according to the requirements outlined in APS 112 and any specific guidelines or instructions relevant to their reporting entity."
+3,4,What is the definition of a Systemically Important Financial Institution (SIFI) under Australian prudential regulations?,"The too-big-to-fail problem refers to the fact that certain financial institutions, because of their size and/or interconnectedness, could pose a material risk to financial stability and the real economy if they were to fail. Such institutions are referred to as systemically important financial institutions (SIFIs).","I don't know the definition of a Systemically Important Financial Institution (SIFI) under Australian prudential regulations, as this information is not explicitly mentioned in the provided context. However, I can suggest that SIFIs are typically defined by APRA in specific guidance or regulatory instruments, and may be subject to enhanced supervision, capital requirements, or other measures aimed at mitigating systemic risk."
+4,5,How do Australian banks calculate their Basel III capital requirements for Tier 1 and Tier 2 capital?,"The capital adequacy ratio is calculated by adding tier 1 capital to tier 2 capital and dividing by risk-weighted assets. Tier 1 capital is the core capital of a bank, which includes equity capital and disclosed reserves. This type of capital absorbs losses without requiring the bank to cease its operations; tier 2 capital is used to absorb losses in the event of a liquidation.
+Under Basel III, a banks tier 1 and tier 2 minimum capital adequacy ratio (including the capital conservation buffer) must be at least 10.5% of its risk-weighted assets (RWA). That combines the total capital requirement of 8% with the 2.5% capital conservation buffer. The capital conservation buffer recommendation is designed to build up banks capital, which they could use in periods of stress.","In Australia, banks are required to calculate their Basel III capital requirements using the prudential standards set by APRA (Australian Prudential Regulation Authority). Here's an overview of how Australian banks typically calculate their Basel III capital requirements for Tier 1 and Tier 2 capital:
+
+**Tier 1 Capital**
+
+Tier 1 capital is the core capital required to maintain a bank's solvency. It consists of Common Equity Tier 1 (CET1) capital, which includes:
+
+1. Share capital
+2. Retained profits
+3. Disclosed reserves
+
+To calculate CET1, Australian banks use the following formula:
+
+CET1 = (Share capital + Retained profits + Disclosed reserves) / Total risk-weighted assets
+
+**Tier 2 Capital**
+
+Tier 2 capital is a supplementary capital component that provides additional support to Tier 1 capital.
+
+To calculate Tier 2 capital, Australian banks use the following steps:
+
+1. Determine the total Tier 2 capital available: This includes:
+	* Eligible retained profits (up to 20% of CET1)
+	* Retained surplus (after deducting CET1 and eligible retained profits)
+	* Common equity tier 1 (CET1) reserves
+	* Disclosed reserves
+2. Deduct Tier 2 deductions:
+	* 25% of eligible retained profits
+	* 50% of the first A$20 million of retained surplus
+3. Calculate Tier 2 capital: This is the total Tier 2 capital available minus the Tier 2 deductions.
+
+**Calculations**
+
+To illustrate the calculations, let's consider an example:
+
+Suppose a bank has:
+
+* Share capital: $100m
+* Retained profits: $150m
+* Disclosed reserves: $50m
+* Total risk-weighted assets: $500m
+
+Using the formula for CET1, we get:
+CET1 = ($100m + $150m + $50m) / $500m = 30%
+
+Next, let's calculate the eligible retained profits:
+Eligible retained profits = 20% of CET1 = 0.2 x $300m = $60m
+
+Deducting Tier 2 deductions:
+Tier 2 deductions (eligible retained profits) = 25% of $60m = $15m
+Tier 2 deductions (retained surplus) = 50% of the first A$20 million = $10m
+
+Now, let's calculate the total Tier 2 capital available:
+Total Tier 2 capital available = ($100m + $50m + $300m) - ($15m + $10m) = $425m
+
+Finally, we subtract the Tier 2 deductions to get the actual Tier 2 capital:
+
+Tier 2 capital = $425m - ($15m + $10m) = $400m
+
+**Additional requirements**
+
+Australian banks must also comply with additional requirements, such as:
+
+* Countercyclical buffers: These are additional capital requirements that vary depending on the bank's systemic risk rating.
+* Capital conservation buffer: This is an additional buffer to ensure that banks maintain sufficient capital to absorb losses.
+
+These calculations and requirements may vary depending on the specific prudential standard and regulatory framework in place at any given time."
+5,6,Can you explain the concept of Liquidity Coverage Ratio (LCR) under Australian prudential regulations?,The liquidity coverage ratio (LCR) refers to the proportion of highly liquid assets that financial institutions must hold to ensure that they can meet their short-term obligations and ride out any disruptions in the market. It is mandated by international banking agreements known as the Basel Accords.,"The Liquidity Coverage Ratio (LCR) is a liquidity adequacy measure that requires eligible deposit-taking institutions (ADIs) to hold enough high-quality liquid assets to cover their cash outflows over a 90-day period, minus certain exceptions. This ratio aims to assess an ADI's ability to meet its short-term funding needs in a stressed financial environment.
+
+The LCR is calculated as the ratio of total unweighted high-quality liquid assets (HQLA) to total net cash outflows. The calculation takes into account various types of liquidity, including secured and unsecured wholesale funding, retail deposits, and cash inflows from transactions such as reverse repurchases and fully performing exposures.
+
+ADIs must also include a buffer of HQLA to meet the LCR requirement in line with their liquidity risk tolerance. Additionally, if an ADI liquidates part of its stock of HQLA or draws on its Committed Liquidity Facility (CLF), it may fall below the minimum LCR level required under certain conditions."
+6,7,What are the key elements of a risk management framework under Australian banking regulations?,"An overarching risk management policy
+An overview of the entity s approach to managing risk
+Effective risk management frameworks generally describe the risk management processes to be used in the entity. This may include a common process for the assessment and management of individual risks including:
+risk identification - how and when risks are identified,
+risk assessment - how risks are assessed (likelihood, consequence, vulnerability, speed of onset etc), and
+risk treatment - the entity s approach for treating risks (mitigate, share, transfer, accept etc).
+Key risk management responsibilities
+In line with element four of the Commonwealth Risk Management Policy, an entity s risk management framework should also clearly define the risk management responsibilities of officials, including the following:
+Accountable Authority
+Chief Risk Officer (if applicable)
+Senior Executives
+Audit Committee
+Risk Committee (if applicable)
+The risk management function
+Risk owners
+Control owners
+Treatment owners
+All staff
+How the entity will report risks to both internal and external stakeholders
+The attributes of the risk management culture that the entity seeks to develop
+How the risk management framework and entity risk profile will be periodically reviewed and improved
+The approach for measuring risk management performance
+How the entity contributes to managing any shared or cross jurisdictional risks
+An overview of the entity s approach to embedding risk management into its existing business processes","According to the provided context, a risk management framework must include:
+
+1. A risk appetite statement
+2. An RMS (Risk Management System)
+3. A business plan
+4. Policies and procedures supporting clearly defined roles, responsibilities, and formal reporting structures for managing material risks
+5. A designated risk management function
+6. An ICAAP (Internal Capital Adequacy Assessment Process)
+7. A MIS (Management Information System) that provides regular, accurate, and timely information on the institution's risk profile
+8. Forward-looking scenario analysis and stress testing programs based on severe but plausible assumptions"
+7,8,How do Australian banks report their capital adequacy requirements to APRA?,"
+Australian banks report their capital adequacy requirements to the Australian Prudential Regulation Authority (APRA) primarily through the quarterly and annual reporting of capital adequacy and risk-weighted assets (RWA) data. The APRA monitors this data as part of its prudential supervision to ensure banks maintain sufficient capital to absorb losses while protecting depositors and maintaining financial stability. Here s a breakdown of the reporting process:
+
+Prudential Standard APS 110: APRA requires banks to meet capital adequacy standards set by the Prudential Standard APS 110 (Capital Adequacy), which aligns with the Basel III framework. This standard outlines minimum capital ratios banks must maintain, including the Common Equity Tier 1 (CET1), Tier 1, and Total Capital ratios.
+
+Regular Reporting Requirements:
+
+Quarterly and Annual Reports: Banks submit detailed reports on their capital positions and risk exposures, which include the composition of capital, RWA, and calculations of their capital ratios.
+Reporting Forms: These submissions are standardized through APRA s reporting forms (such as ARF 110.0 for capital adequacy and ARF 112.0 for RWA). Banks complete these forms using APRA s Data Collection Solution (D2A), and APRA recently transitioned to the APRA Connect system for enhanced data collection.
+Disclosures and Stress Testing: APRA also requires larger banks to disclose their capital adequacy publicly, which increases transparency. They may also conduct periodic stress tests, where banks report on their capital adequacy under hypothetical stress scenarios to assess resilience.
+
+Supervisory Review: APRA conducts supervisory reviews of these submissions to ensure compliance and may engage in direct discussions with banks to assess their capital positions and risk management practices.
+
+This process allows APRA to monitor and enforce capital requirements while enabling it to act swiftly in response to financial risks affecting the banking system.","According to the provided context, an Australian bank must provide APRA with the information required by ARF 117.1, Interest Rate Risk in Banking (IRBB) - Level 2, for each quarter based on its financial year, within 30 business days after the end of the reporting period. This information is used to assess compliance with Prudential Standard 11 Capital Adequacy: Standardised Approach to Credit Risk and Prudential Standard 13 Capital Adequacy: Internal Ratings-based Approach to Credit Risk."
+8,9,Can you explain the concept of Operational Risk under Australian prudential regulations?,"Operational risk is defined as the risk of loss (including to policy owners) resulting from inadequate or failed internal processes, people and systems or from external events.","Under Australian prudential regulations, operational risk refers to the risk of loss resulting from inadequate or failed internal processes, systems, and individuals, as well as from external events and circumstances. This type of risk is inherent in all products, activities, processes, and systems.
+
+Operational risk can have a significant impact on an institution's ability to maintain its critical operations, meet its prudential obligations, and continue to serve its customers. It encompasses risks such as:
+
+* Human error or failure
+* Systemic failures or technology glitches
+* Poor governance or management practices
+* External events, such as natural disasters or cyber attacks
+* Regulatory non-compliance
+
+The Australian Prudential Regulation Authority (APRA) requires APRA-regulated entities to identify, assess, and manage operational risk effectively, with robust internal controls, monitoring, and remediation mechanisms in place."
+9,10,What is the definition of an Integrated Disclosure Framework (IDF) under Australian banking regulations?,"The integrated report is a concise communication about how an organisation s strategy, governance, performance and prospects, in the context of its external environment, lead to value creation over time. It drives high-quality corporate reporting and connectivity between financial statements and sustainability-related financial disclosures, and brings together information investors need to assess a company s ability to create value over time. An integrated report should be prepared in accordance with the Integrated Reporting Framework (IR Framework), which is an IFRS Foundation resource.
+","I don't know the specific definition of an Integrated Disclosure Framework (IDF) under Australian banking regulations from the provided context. The information available does not provide a clear definition or explanation of IDF in this context. If you need further clarification, I recommend consulting the official Australian Prudential Regulation Authority (APRA) guidelines or regulatory resources for more detailed information."
+10,11,How do Australian banks report their exposure to liquidity risk using the Liquidity Coverage Ratio (LCR)?,"Australian banks report their exposure to liquidity risk through the Liquidity Coverage Ratio (LCR) under APRA s Prudential Standard APS 210 (Liquidity). The LCR is designed to ensure banks maintain adequate levels of high-quality liquid assets (HQLA) to withstand a 30-day liquidity stress scenario. Here s an overview of how the reporting works:
+
+1. **Prudential Standard APS 210**: The LCR requirement is part of APRA s APS 210, which outlines standards for liquidity risk management. This standard requires banks to maintain an LCR of at least 100%, meaning they should hold enough HQLA to cover expected net cash outflows over a 30-day stress period.
+
+2. **Monthly Reporting**:
+   - **APRA s Reporting Forms**: Banks report their LCR metrics monthly to APRA using specific forms like ARF 210.1A, which captures details on HQLA holdings, cash outflows, and inflows.
+   - **Calculation of the LCR**: Banks calculate their LCR by dividing the total value of HQLA by net cash outflows expected over a 30-day stress period. These net outflows include expected outflows minus expected inflows, as per APRA s defined parameters.
+
+3. **Qualitative and Quantitative Disclosures**:
+   - **Quarterly Public Disclosures**: Large banks are required to publicly disclose their LCR on a quarterly basis, including a breakdown of HQLA and significant inflow/outflow categories. This transparency aims to boost market confidence in banks  liquidity positions.
+   - **Additional Qualitative Information**: Banks often provide contextual information on liquidity risk management practices, including descriptions of the key drivers of their LCR ratios and any significant changes in the quarter.
+
+4. **Daily Monitoring for Large Banks**: APRA requires large institutions to monitor their LCR on a daily basis. Although monthly reporting is standard, APRA may request daily data in times of financial stress for enhanced supervision.
+
+5. **Stress Testing**: APRA conducts regular stress tests where banks are required to simulate liquidity stress scenarios and report how these would impact their LCR. These exercises help APRA assess the robustness of banks  liquidity management strategies.
+
+This framework ensures Australian banks manage and report liquidity risk consistently, enabling APRA to monitor system-wide liquidity resilience and intervene if necessary.","Under Australian banking regulations, Australian banks are required to report their exposure to liquidity risk using the Liquidity Coverage Ratio (LCR) as set out in Table 20 of the LCR disclosure template.
+
+To calculate the LCR, banks must:
+
+* Calculate the total stock of liquid assets available to cover short-term funding needs
+* Calculate the total net cash outflows over a specified stress period
+* Determine the liquidity coverage ratio by dividing the numerator (liquid assets) by the denominator (total net cash outflows)
+
+Banks must also report specific information on their LCR calculation, including:
+
+* The value of the stock of liquid assets in stressed conditions (Section A)
+* Total expected cash outflows and expected cash inflows (Sections B and C)
+* The 75% threshold for total expected cash outflows
+
+The LCR is a key metric used to assess an institution's ability to meet its short-term liquidity needs, and it is reported as a ratio, with the numerator being expressed in millions of Australian dollars (AUD) rounded to one decimal place."
+11,12,Can you explain the concept of Credit Risk Management under Australian prudential regulations?,"Credit management is the process of deciding which customers to extend credit to and evaluating those customers creditworthiness over time. It involves setting credit limits for customers, monitoring customer payments and collections, and assessing the risks associated with extending credit to customers.","Under Australian prudential regulations, a Credit Risk Management framework is a critical component for Authorised Deposit-taking Institutions (ADIs) to manage their credit risk exposure. The framework requires ADIs to implement policies and processes that identify, measure, monitor, report, and control or mitigate credit risk over the full credit life-cycle.
+
+The framework includes several key requirements:
+
+1. An appropriate credit risk appetite statement and credit risk management strategy.
+2. Prudent policies and processes for identifying, measuring, monitoring, reporting, and controlling credit risk.
+3. Sound credit assessment and approval criteria, including comprehensive assessment of a borrower's repayment capacity.
+4. An appropriate system for the ongoing administration of its credit portfolio.
+5. Prudent policies and processes for early identification and management of problem exposures, such as non-performing and restructured exposures.
+
+The framework also requires ADIs to:
+
+* Have an effective system of internal control to consistently determine adequate provisions in accordance with their stated policies and processes and Australian Accounting Standards.
+* Maintain a sound level of capital adequacy and provisioning to cover expected credit losses.
+
+Overall, the Credit Risk Management framework is designed to help ADIs manage their credit risk exposure effectively, maintain stability, and prevent adverse outcomes."
+12,13,What are the key elements of a Capital Adequacy Framework under Australian banking regulations?,"Under Australian banking regulations, the Capital Adequacy Framework, governed by APRA, is designed to ensure banks maintain sufficient capital to absorb losses, support depositor protection, and promote financial stability. The key elements of this framework include:
+
+1. **Minimum Capital Requirements**:
+   - **Tiered Capital Ratios**: APRA requires banks to meet minimum capital ratios as outlined in Prudential Standard APS 110 (Capital Adequacy), consistent with the Basel III framework. These include:
+     - **Common Equity Tier 1 (CET1)**: The highest-quality capital, consisting mainly of common shares and retained earnings.
+     - **Tier 1 Capital**: CET1 plus additional Tier 1 capital instruments.
+     - **Total Capital Ratio**: Tier 1 capital plus Tier 2 capital, which includes subordinated debt and other forms of capital that can absorb losses.
+   - **Capital Buffers**: Banks must maintain additional buffers above minimum ratios, including a **Capital Conservation Buffer** and, for larger banks, a **Countercyclical Capital Buffer** to protect against cyclical downturns.
+
+2. **Risk-Weighted Assets (RWA)**:
+   - Banks calculate their RWA based on the risk profile of their assets, where riskier assets receive higher weights. APRA requires banks to categorize their assets according to the level of credit, market, and operational risks they pose, which helps determine the capital needed to support these assets.
+
+3. **Pillar 2 √ê Supervisory Review**:
+   - APRA performs a **Supervisory Review and Evaluation Process (SREP)** under Pillar 2 to assess banks  internal capital adequacy and risk management processes. Based on its evaluation, APRA may impose additional capital requirements to cover risks specific to each institution beyond the Pillar 1 minimums.
+
+4. **Pillar 3 √ê Market Discipline and Disclosure**:
+   - Banks are required to disclose certain information regarding their capital adequacy and risk exposures on a regular basis under Pillar 3. These disclosures, which include capital ratios, RWA breakdowns, and descriptions of risk management practices, aim to increase transparency and market discipline by enabling stakeholders to assess a bank s risk and capital position.
+
+5. **Stress Testing**:
+   - APRA mandates regular stress testing as part of banks  internal capital adequacy assessments and also conducts industry-wide stress tests. These tests simulate adverse scenarios to evaluate the resilience of banks  capital positions and assess whether they hold sufficient capital to withstand economic shocks.
+
+6. **Internal Capital Adequacy Assessment Process (ICAAP)**:
+   - Each bank must have an ICAAP, which is a structured framework for assessing capital adequacy in relation to its risk profile and operational strategy. The ICAAP, submitted annually to APRA, includes capital planning, risk measurement, and scenario analysis to ensure sufficient capital levels are maintained under varying economic conditions.
+
+The Capital Adequacy Framework, with its requirements for minimum capital ratios, RWA calculations, supervisory review, disclosure, stress testing, and ICAAP, provides APRA with a comprehensive approach to overseeing the capital strength and resilience of Australian banks.","Under Australian banking regulations, a Capital Adequacy Framework for an Authorised Deposit-Taking Institution (ADI) must include: 
+
+1. A framework to manage, measure and monitor interest rate risk in the banking book commensurate with the nature, scale and complexity of the institution's operations.
+2. Approval from APRA to use an internal model approach for determining the institution's capital requirement for interest rate risk in the banking book.
+
+Additionally, ADIs must maintain adequate capital on both a Level 1 and Level 2 basis, with the ultimate responsibility for prudent management of capital resting with their Board of directors."
+13,14,How do Australian banks calculate their risk-weighted assets (RWA) under Basel III?,"
+Banks calculate risk-weighted assets by multiplying the exposure amount by the relevant risk weight for the type of loan or asset. A bank repeats this calculation for all of its loans and assets, and adds them together to calculate total credit risk-weighted assets.","Under Australian banking regulations, as per Prudential Standard APS 120 Securitisation, risk-weighted assets (RWA) for operational risk are calculated as follows:
+
+For non-significant financial institutions: 
+10% of the sum of RWA calculated under sub-paragraphs 3(a) and 3(b) 
+
+For significant financial institutions:
+Risk-weighted credit exposures calculated under APS 180
+12.5 times the sum of the capital charges determined under APS 115, APS 116, APS 117, and 118."
+14,15,Can you explain the concept of Systemic Risk under Australian prudential regulations?,Systemic risk is the risk of financial system disruption so widespread or severe that it causes material damage to the real economy. ,"Under Australian Prudential Regulation Authority (APRA) regulations, systemic risk refers to the risk that a failure or instability in one part of the financial system could have a ripple effect and impact the stability of the entire system. This includes risks associated with:
+
+* A major bank failing or being forced to fail
+* A significant loss of confidence in the banking system
+* A widespread crisis or collapse of key financial institutions
+
+Systemic risk can arise from various sources, such as:
+
+* Interconnectedness between financial institutions through lending, derivatives, and other financial products
+* Exposure to systemic risks by individual firms that are not adequately managed
+* Lack of effective regulation and oversight
+
+The Australian Prudential Regulation Authority (APRA) has a systemic risk framework in place to identify, assess, and mitigate systemic risks. This includes:
+
+* Monitoring the stability of the financial system
+* Conducting regular reviews of the resilience of key financial institutions
+* Implementing measures to reduce interconnectedness between financial institutions
+* Developing policies and procedures to respond to potential systemic risks
+
+The objective of this framework is to prevent or minimize the impact of a systemic risk event on the stability of the Australian financial system, thereby protecting the broader economy and maintaining public confidence in the banking system."
+15,16,Can you explain the concept of Disclosures for the identification of potential G-SIBs under Australian prudential regulations?,"Every year, a sample of international banks must provide information to the Basel Committee for Banking Supervision (BCBS) for assessment against a set of indicators that identify potential Global Systemically Important Banks (G-SIBs).","I don't know the specifics on how to identify potential Global Systemically Important Banks (G-SIBs) under Australian prudential regulations. However, I can tell you that the Prudential Standard APS 511 Disclosures for the identification of potential G-SIBs outlines requirements and guidelines for Australian deposit-taking institutions (ADIs) and other financial institutions to disclose information about their potential systemic risk.
+
+According to the standard, ADIs must provide disclosure on global systemically important bank (G-SIB) indicators, which include metrics such as common equity Tier 1 capital ratios, leverage ratios, liquidity coverage ratios, net stable funding ratios, and others."
+16,17,Can you explain the concept of Liquidity Risk under Australian prudential regulations?,"Liquidity risk is the possibility an institution will be unable to obtain funds, such as customer deposits or borrowed funds, at a reasonable price or within a necessary period to meet its financial obligations.","Under Australian prudential regulations, liquidity risk refers to the possibility that an institution will not have sufficient liquid assets to meet its short-term obligations, such as paying bills or meeting customer demands for cash. This can lead to a liquidity crisis, where the institution is unable to access funds quickly enough or at a reasonable cost.
+
+In Australia, liquidity risk is considered a material risk and is subject to prudential requirements under the Prudential Standard APS 510 Capital Adequacy (Capital Framework) and other relevant standards.
+
+The Australian Prudential Regulation Authority (APRA) requires institutions to manage their liquidity risk through:
+
+1. Maintaining sufficient liquid assets to meet short-term obligations.
+2. Identifying and assessing potential liquidity risks.
+3. Implementing a sound process for monitoring and managing liquidity risk.
+4. Ensuring that liquidity risk is incorporated into the institution's overall risk management framework.
+
+The liquidity risk management framework should include:
+
+1. A robust early warning system to identify emerging liquidity risks.
+2. Stress testing procedures to assess the impact of adverse economic conditions on the institution's liquidity position.
+3. Contingency plans in place to respond to a potential liquidity crisis.
+4. Regular review and assessment of the effectiveness of the liquidity risk management framework.
+
+Institutions must also disclose their approach to managing liquidity risk, as well as the key performance indicators (KPIs) used to measure its adequacy, under the Prudential Standard APS 511 Disclosures."
+17,18,Who are High-Risk Customers?,"High-risk customers are individuals or entities that pose a greater risk to a business or financial institution due to different factors. These factors may include a higher likelihood of involvement in illegal activities, financial instability, or a history of behavior that could lead to financial losses for the institution.
+
+Financial institutions are required to identify high-risk customers for several reasons. One of the most important reasons is compliance with AML requirements and regulations. But what is AML compliance?","High-Risk Customers refers to borrowers who pose a significant credit risk to an authorized deposit-taking institution (ADI). The definition is not explicitly stated in the provided text, but it is implied that high-risk customers include:
+
+* Government-related entities
+* Counterparties with unlimited exposure limits
+* Corporate and individual borrowers with excessive credit risk profiles
+* Credit risk mitigation (CRM) providers
+
+These types of customers may require additional risk management strategies and provisions to mitigate their potential impact on the ADI's financial health."
+18,19,What is the meaning of credit risk mitigation?,"Credit risk mitigation is a process by which a company reduces its exposure to credit risks. It involves assessing creditworthiness, monitoring credit profiles, and managing risks to prevent revenue loss, ensuring a healthy balance sheet and cash flows.","Credit Risk Mitigation refers to techniques, instruments, or mechanisms used by an authorized deposit-taking institution (ADI) to manage or reduce its exposure to credit risk. This can include:
+
+* Purchasing credit derivatives (e.g., credit default swaps)
+* Maintaining provisions or reserves against potential credit losses
+* Structuring loans with built-in safeguards (e.g., collaterized loans)
+* Engaging in hedging activities (e.g., interest rate swaps)
+
+Credit Risk Mitigation is used to offset the impact of potential credit losses, and can include measures such as:
+
+* Buying protection from other parties against the risk of default
+* Selling protection to other parties about the likelihood of a borrower's default
+* Reducing exposure by adjusting loan terms or conditions
+
+By using these techniques, ADIs aim to minimize their potential losses from credit defaults."
+19,20,Do Australian banks have to report their exposure to interest rate risk?,"The Australian Prudential Regulation Authority (APRA) requires banks to summarise and report on the extent of interest rate risk that they face. For the banking book, this is measured as the expected change in economic value from a 200 basis point increase in interest rates at all maturities.","Yes, Australian deposit-taking institutions (ADI) and non-operating holding companies (NOHCs) must report their exposure to interest rate risk. They are required to provide information in ARF 117.1 Interest Rate Risk in the Banking Book, which is submitted electronically to APRA."
+20,21,How do you calculate risk-weighted assets in RWA?,"Banks calculate risk-weighted assets by multiplying the exposure amount by the relevant risk weight for the type of loan or asset. A bank repeats this calculation for all of its loans and assets, and adds them together to calculate total credit risk-weighted assets.","Risk-weighted assets (RWA) for operational risk and market risk are calculated as follows:
+
+Operational risk: The sum of RWA determined in accordance with APS 113, APS 120, and the applicable product of the capital charges under APS 112.
+
+Market risk: The aggregate RWA is reported against the corresponding risk weight bucket. For items 1.2.1 to 1.2.4, report the total corresponding senior securitisation exposures in column 1 and report the aggregate RWA in column 2 against the corresponding risk weight bucket."
+21,22,What is an aps 310 audit?,APS 310/3PS 310 requires the appointed auditor to provide two different levels of assurance over the reliability of a specific set of ADI Reporting Forms at the ADIs financial year-end.,"APS 310 Audit and Related Matters refers to an auditor's review of an authorised deposit-taking institution (ADI) to ensure that APRA has access to independent advice on its operations, internal controls, and information provided to APRA. The audit aims to provide assurance that the ADI is managing its risks effectively and meeting regulatory requirements."
+22,23,What is the audit and assurance policy statement?,An Audit and Assurance Policy (AAP) is intended to set out a companys approach to assuring the quality of the information it reports to shareholders (and other stakeholders) beyond that contained within the financial statements.,"The Audit and Assurance Policy Statement sets out the framework for auditor independence, including the requirements for auditors of APRA-regulated institutions in Australia. It outlines the rules for auditors to maintain independence from clients, avoid conflicts of interest, and comply with regulatory requirements. The statement ensures that audits are carried out impartially and effectively."
+23,24,What is counterparty credit risk in derivatives?,Counterparty credit risk is the risk arising from the possibility that the counterparty may default on amounts owned on a derivative transaction.,"Counterparty credit risk in derivatives refers to the risk that a counterparty (typically a bank or other financial institution) will default on its obligations under a derivative contract, leaving the other party exposed to potential losses. This risk arises when one party fails to meet their commitments under an agreement, such as failing to pay an amount due or repaying principal."
+24,25,What is concentration risk?,Concentration risk is the potential for a loss in value of an investment portfolio or a financial institution when an individual or group of exposures move together in an unfavorable direction. The implication of concentration risk is that it generates such a significant loss that recovery is unlikely.,"Concentration risk refers to the increased risk of loss that arises from a single counterparty being exposed to multiple derivatives with similar characteristics, such as interest rate swaps or foreign exchange contracts. This can lead to a higher potential for losses if the counterparty defaults on any one of these agreements."
+25,26,What measures for the management of interest rate risk can be used by an Organisation?,"Gap analysis, duration analysis and stimulation models are interest rate risk measurement techniques. Each institution should use at least one, and preferably a combination of these techniques in managing its interest rate risk exposure.","According to the text, an organization may use the following measures for the management of interest rate risk:
+
+1. Netting: off-setting positions that are denominated in the same currency.
+2. Matching: fully or very closely matched long and short positions in identical instruments.
+3. Duration Method: using a maturity-based ladder to calculate the general market risk capital charge, subjecting long and short positions to a five percent vertical disallowance.
+4. Maturity Method: entering long and short positions into a maturity ladder comprising thirteen time bands (or 15 time bands for low-coupon instruments).
+5. Use of derivatives: treating futures and forward contracts as a combination of a long and a short position in a notional government security or underlying debt security.
+
+These measures can be used alone or in combination to manage interest rate risk."
+26,27,How must banks assess and manage risks associated with outsourcing arrangements according to CPS 231?,All risks arising from outsourcing material business activities must be appropriately managed to ensure that the APRA-regulated entity is able to meet both its financial and service obligations to its depositors and/or policyholders. notify APRA after entering into agreements to outsource material business activities.,"According to Prudential Standard CPS 231 Outsourcing, banks must assess and manage risks associated with outsourcing arrangements by following these steps:
+
+1. Conduct a thorough review of the proposed outsourcing arrangement, including:
+	* Assessing the service provider's capabilities, reputation, and experience
+	* Evaluating the terms and conditions of the outsourcing agreement
+	* Identifying potential risks and vulnerabilities
+2. Identify material business activities that may be outsourced, such as:
+	* Information technology systems
+	* Data security
+	* Internal control frameworks
+	* Business continuity plans
+3. Assess the impact on risk management processes, including:
+	* Information technology systems
+	* Data security
+	* Internal control frameworks
+	* Business continuity plans
+4. Develop and implement a strategy for managing the risks associated with the outsourcing arrangement, including:
+	* Monitoring and reporting requirements
+	* Governance arrangements
+	* Oversight and audit procedures
+5. Establish a robust governance framework to oversee the outsourcing arrangement, including:
+	* A clear understanding of the outsourcing policy and its objectives
+	* Regular review and reporting to the board or board audit committee
+	* Assignment of responsibilities and accountability
+6. Ensure that the institution's internal audit function is involved in the outsourcing process and regularly reviews and reports on compliance with the outsourcing policy.
+7. Consider the potential impact of a failure by the service provider to perform, including:
+	* The financial and operational impact
+	* The cost of the outsourcing arrangement as a share of total costs
+	* The degree of difficulty in finding an alternative service provider or bringing the business activity in-house
+	* The ability of the institution to meet regulatory requirements if there are problems with the service provider
+	* Potential losses to customers and other affected parties
+
+By following these steps, banks can assess and manage risks associated with outsourcing arrangements effectively."
+27,28,"What are the requirements for business continuity planning under CPS 232, and how must banks demonstrate resilience to operational disruptions?","Under CPS 232, an APRA-regulated entity must identify, assess, manage, mitigate and report on potential business continuity risks to ensure that it can meet its financial and service obligations.","Under CPS 232, an APRA-regulated entity must maintain a documented Business Continuity Plan (BCP) that meets the objectives of its Business Continuity Management (BCM) policy. The BCP must document procedures and information that enable the institution to manage an initial business disruption (crisis management) and recover critical business operations.
+
+To demonstrate resilience to operational disruptions, an APRA-regulated entity must:
+
+1. Identify, assess and manage its operational risks with effective internal controls, monitoring and remediation.
+2. Develop a credible Business Continuity Plan (BCP) that sets out how the entity would identify, manage and respond to a disruption within tolerance levels.
+3. Regularly test the BCP with severe but plausible scenarios.
+4. Maintain appropriate monitoring, analysis and reporting of operational risks and escalation processes for operational incidents and events.
+5. Ensure the BCP is consistent with its recovery and exit planning.
+
+Additionally, an APRA-regulated entity must demonstrate resilience by maintaining a documented Business Continuity Plan that includes:
+
+* Critical business operations
+* Recovery levels and time targets for each critical business operation
+* Recovery strategies for each critical business operation
+* Infrastructure and resources required to implement the BCP
+* Roles, responsibilities and authorities to act in relation to the BCP
+* Communication plans with staff and external stakeholders.
+
+By meeting these requirements, an APRA-regulated entity can demonstrate its resilience to operational disruptions and maintain a high level of operational risk management."
+28,29,What are the obligations for banks under CPS 234 regarding the protection of information assets and managing cyber security risks?,"Under CPS 234, APRA-regulated entities must implement information security controls to protect information assets, including those managed by related or third-parties, in a timely manner and commensurate with: Existing and emerging vulnerabilities and threats to critical and sensitive information assets.",I don't know. The text doesn't specifically mention the obligations for banks regarding the protection of information assets and managing cyber security risks under CPS 234.
+29,30,What is the CPS 510 governance standard?,"This standard requires an entity to have a sound governance framework and to conduct its affairs with a high degree of integrity. Entities must meet specific requirements for board committees, appointments, renewal and performance. This is a core standard in the Governance Pillar.","CPS 510 Governance sets out minimum foundations for good governance of an APRA-regulated institution in various industries, aiming to ensure sound and prudent management by a competent Board (or equivalent governing body), with specific objectives including achieving effective oversight, risk management, and compliance."
+30,31,What is a responsible person in APRA?,"Persons who are responsible for the management and oversight of an APRA-regulated entity need to have appropriate skills, experience and knowledge and act with honesty and integrity. These skills and qualities strengthen the protection afforded to depositors, policyholders and/or other stakeholders.","In the context of APRA, a Responsible Person refers to an individual who has control or significant influence over the affairs of an Australian deposit-taking institution (ADI), such as a bank, credit union, or building society, and is considered accountable for its management. This includes senior managers, directors, agents, auditors, actuaries, and others who perform key roles in the institution's operations."
+31,32,How must banks structure their remuneration practices under CPS 510 to align with risk management objectives?,CPS 510 54 The Remuneration Policys performance-based components of remuneration must be designed to encourage behaviour that supports: (a) the institutions long-term financial soundness; and (b) the risk management framework of the institution. (c) the risk management framework of the RSE licensee.,"Under CPS 510, APRA-regulated banks are required to design and implement variable remuneration arrangements that align with their risk management objectives and are consistent with paragraph 21 of the Prudential Standard. This means that banks must:
+
+1. **Align remuneration outcomes with risk management objectives**: Ensure that the variable remuneration arrangements reflect an entity's risk profile, sustainable performance, long-term soundness, and performance in exercising its powers in the best financial interests of beneficiaries.
+2. **Consider non-financial risks**: Incorporate financial and non-financial risks into variable remuneration arrangements to ensure that they are aligned with the bank's overall risk management objectives.
+3. **Use payout and vesting schedules that reflect time horizon**: Use payout and vesting schedules that take into account the possible range of risk and performance outcomes, as well as the time horizon for each risk.
+4. **Utilize variable remuneration adjustment tools**: Implement variable remuneration adjustment tools such as overriding board discretion, in-period adjustments, malus, clawback, and downward-adjustments to support a downward-adjustment process that determines the amount of downward-adjustment based on severity of risk and conduct outcomes.
+5. **Maintain transparency and accountability**: Ensure that there are clearly identified triggers for downward-adjustments, and that the determination of each component of a person's variable remuneration gives material weight to non-financial measures where applicable.
+
+By structuring their remuneration practices in this way, banks can ensure that variable remuneration arrangements align with their risk management objectives and support prudent and sound decision-making."
+32,33,What is risk culture assessment?,"The Risk Culture Assessment report aggregates information gained during each step. The report provides (i) maturity levels for each Risk Culture attribute, (ii) improvement opportunities identified, and (iii) mitigation actions formulated as recommendations (see Examples).","I don't have information on ""risk culture assessment"" from the provided context. However, I can suggest that risk culture assessment refers to an evaluation of an organization's culture and attitudes towards risk management, assessing how employees understand, manage, and report risks, as well as the overall tone and behavior of the organization towards risk-taking and decision-making."
+33,34,What is CPS 230?,"What is CPS 230? CPS 230 requires regulated APRA-regulated entities to prepare for service disruptions by understanding the impacts of such events to customers and the wider financial system, take action to prevent these and enhance its operational resilience.","I don't have information on ""CPS 230"" from the provided context. However, I can suggest that it might refer to Prudential Standard CPS 230 - Operational Risk Management, which is mentioned in the text as one of the standards related to operational risk management for APRA-regulated entities."
+34,35,When should I first contact APRA,"Once you have developed an early stage business plan it can be beneficial to have a meeting with APRA. At this meeting APRA can provide high level views of any likely challenges with your proposals, allowing you to make adjustments to ensure your business develops in a way that is most likely to result in a successful application. APRA will also be able to provide advice about APRA s prudential requirements and expectations and answer any questions you have about what to expect in the licensing process.   ","I don't have information on when you should first contact APRA from the provided context, but according to the text, if a foreign ADI undertakes material residential mortgage lending in Australia, APRA may apply this Reporting Standard to that ADI by notice."
+35,36,If I am applying for an ARPA licence will I need any other tyoe of licence,"It is likely that you will need to be licenced by ASIC. You may also need to seek authorisation or to register with other regulators, such as the RBA and AUSTRAC. You should allow time for their assessment processes.","I don't have information on whether you'll need another type of license from the provided context, but it appears that the text discusses prudential standards and requirements for APRA-regulated entities in Australia, which may not necessarily be related to licensing."
+36,37,I want to register a company name with an APRA regulate restricted term. How do I do this?,"Once you have lodged your application with APRA you should advise APRA in writing of the specific company name that you want to register and request APRA s consent if the name includes an APRA regulated restricted term. APRA regulated restricted terms include the words √îbank , √îbanker , √îbanking , √îbuilding society , √îcredit union , √îcredit society  and √îfriendly society . If you want to register a company name that uses the restricted words in section 66 of the Banking Act 1959 (such as the words √îbank , √îbanker  and √îbanking ), please also refer to the APRA s Restricted Words under the Banking Act 1959 Guidelines: If consent is granted by APRA, it will usually be subject to conditions, such as not using the company name publicly prior to licensing. It is an offence for a person to use a restricted word or expression under section 66 in relation to a financial business, except where APRA has granted a consent or exemption, or where a statutory exception applies.
+
+If you want to register a company name that uses the restricted term √îfriendly society  you will need to apply for consent from APRA under section 16E of the Life Insurance Act 1995.  It is an offence for a person to use the restricted expression √ífriendly society√ì in relation to a financial business, except where APRA has granted a consent or determined that section 16E does not apply to that person. ",I don't have information on how to register a company name with APRA from the provided context.
+37,38,Can APRA provide further guidance beyond CPS and GPG220 Risk Management as to what should be included in the Risk Appetite Statement (RAS)?,"What is a RAS?The RAS is a document that provides boundaries within which both management and staff know how it is acceptable to operate. It provides ground rules which should be very clear for management in terms of what they are, and are not, allowed to do in pursuit of the institution s business strategy and objectives. Without such boundaries and ground rules, management (and ultimately all staff) may be unaware that they are operating outside of the risk appetite set by the Board.  How should the RAS be structured? APRA does not prescribe the structure or form of your RAS and you are generally free to adopt a risk appetite that suits the particular circumstances of your business, within the requirements of the prudential standards.A RAS should be a concise document and should not include all management reporting. It is unlikely that a RAS would need to have an appendix as it would not be expected that there would be ancillary information in a RAS.  What content should be covered in the RAS? The RAS should cover both high-level qualitative statements and, where appropriate, quantitative measures, which combined clearly capture your attitude towards, and level of acceptance of, its different risks. The RAS should consider the material risks to your company as well as to your reputation with policyholders/depositors, investors and customers. The RAS should also closely align with your strategic direction.Qualitative statements should set the overall tone for your approach to risk taking and should also clearly articulate the Board s motivations for taking on or avoiding certain types of risks or exposures. In this way, qualitative statements advise stakeholders of your attitude toward risk taking by placing high-level boundaries around the types of activities you are prepared to undertake.Qualitative statements are likely where a hard boundary for operations is being set rather than a metric with variables or a scale.How do we demonstrate that the RAS has/will be applied? Your business strategy and policies should operate in line with your RAS. Once the Board has approved your RAS, you should be able to evidence decisions being made in line with it.Additionally, as the RAS needs to be used by a number of stakeholders consistently across all of your business operations it must be easy to communicate and written in plain English. A RAS which is not easily understood will be difficult to embed throughout your organisation, as staff will not know how they are expected to behave and what they are permitted to do in order to operate within the risk appetite. * Information contained in this section is a summary of all information available from APRA including Information Papers, letters to industry and speeches. The questions and answers are designed to clarify CPS 220 Risk Management but do not form part of the law or create enforceable requirements. If there is a conflict between the guidance contained in this FAQ and CPS 220 Risk Management, then the requirements of CPS 220 Risk Management prevail.","According to APRA's guidelines, a Risk Appetite Statement (RAS) is a critical component of an authorised deposit-taking institution's (ADI's) risk management framework. While CPS (Corporate Policy and Procedures Manual) and GPG 220 (Risk Management) provide foundational guidance, APRA may offer additional resources or guidance on what to include in the RAS.
+
+Here are some steps you can take to seek further guidance:
+
+1. **Review APRA's website**: Check APRA's official website for guidance on risk management and risk appetite statements.
+2. **Consult APRA's Guidance**: Look for APRA's guidance documents, such as the ""Risk Appetite Statement"" or similar titles, which may provide more detailed information on what to include in a RAS.
+3. **Contact APRA directly**: Reach out to APRA's supervision and regulatory contacts to discuss your specific requirements and seek clarification on any aspects of the RAS.
+4. **Industry associations and networks**: Engage with industry associations, such as the Australian Financial Services Industry Association (AFSIA) or other relevant bodies, which may offer guidance, templates, or best practices for developing a RAS.
+
+When drafting your RAS, ensure it aligns with APRA's expectations and includes key elements, such as:
+
+* A clear definition of risk appetite
+* A description of the firm's risk tolerance and risk management framework
+* Identification of material risks and their mitigation strategies
+* A review process for updating and reviewing the RAS
+
+Please note that I'm providing general guidance only, and it's essential to consult APRA's official resources and seek direct advice from APRA or relevant industry experts to ensure compliance with regulatory requirements."
+38,39,What is required in the external auditor's verification of minimum captial?,"APRA requires the applicant to provide written verification from its appointed external auditor that it meets the minimum regulatory capital level required prior to licensing. This must include meeting the applicable minimum level of capital and capital ratios. The written verification should set out the steps taken by the external auditor in making the verification, including the calculation of minimum capital requirements where applicable. For life insurers, the verification should address the solvency of each statutory fund, as well as the minimum capital requirements and capital ratios for each of its statutory funds and the life company as a whole. RSE applicants are required to attach an audited copy of the applicant s statement of financial position for the last two years to their applications, but do not need a separate verification of solvency.
+","The external auditor's verification of minimum capital requires limited assurance that the Level 3 Head has controls in place to ensure that:
+
+* The financial statements accurately reflect the ADI's minimum capital adequacy requirements; and
+* The ADI has maintained required levels of regulatory capital throughout the financial year. 
+
+This is based on the Appointed Auditor's work, including their review of the internal capital adequacy assessment process and compliance with relevant prudential standards."
+39,40,What documents do I need for a Non-Operating Holding Company?,The level of detail and need for difference from the underlying ADI or insurer will depend on whether there are other entities under the NOHC and the type of operations in those entities. It is possible that one set of policies can cover both the NOHC and ADI or insurer with differences for the NOHC and ADI or insurer detailed in the document.  You should discuss the requirements that will suit your circumstances with APRA.,"I don't know what documents are required for a Non-Operating Holding Company (NOHC). The provided text only discusses requirements for Authorised Deposit-Taking Institutions (ADIs) and does not explicitly mention NOHCS. However, it is likely that specific regulations and prudential standards may be applicable to NOHCs as well."
+40,41,Our business won't have a trading desk - do we need any policies covering market risks?,"Yes, you will need at least a policy detailing how you will address managing Interest Rate Risk in the Banking Book (IRRBB). The market risk policy/ies should also specifically state that the ADI will not undertake any proprietary trading business if this is the case. 
+
+","You don't need to have a trading desk, but you must have clear policies for the active management of positions in accordance with Prudential Standard APS 110. This includes:
+
+* Clearly defined policies and procedures for position management;
+* Positions are marked-to-market daily and positions exposed to market risk are held at a minimum capital requirement;"
+41,42,"As a restricted ADI/ADI applicant, when do I need to provide information about compliance with the Bank Executive Accountability Regime (BEAR)?","The BEAR regime applies to Restricted ADI/ADIs and imposes notification obligations to APRA on compliance with the BEAR regime. Templates for these notification obligations, including accountability statements and accountability maps, are available on the APRA website and will need to be completed as a pre-licence requirement. The time frame for reporting changes of 14 calendar days applies to RADIs as well as ADIs.","I don't know when you need to provide information about compliance with the Bank Executive Accountability Regime (BEAR) as a Restricted ADI or ADI applicant. The provided text does not mention BEAR, but I can suggest that it may be related to Prudential Standard APS 310 Audit and Related Matters, which discusses accountability regimes for executives."
+42,43,How should securitisation  warehouse funding risks be addressed?,"Start-up ADIs are often reliant on securitisation warehouse facilities to quickly build lending volumes. For start-up ADIs reliant on securitisation warehouse facilities (e.g. greater than 20 per cent of funding in any projected year), APRA expects the warehouse facility to be automatically placed into amortisation if the warehouse facility is not renewed.  Where this occurs, this will be considered long-term wholesale funding and will not add to the minimum MLH requirement. This approach reduces the risk that the reliance on warehouse facilities would result in a situation where the new ADI either has to transfer the mortgages to the warehouse provider, who may replace the new ADI as servicer or sell the mortgages to another party, or take the assets back on balance sheet at the end of the contractual term if the facility is not renewed. These scenarios would likely threaten the viability of the start-up ADI, as it is unlikely to have sufficient funding to repay the facility, and loss of mortgages will eliminate servicing income and retained equity in the warehoused mortgages.  
+","I don't know how securitization warehouse funding risks should be addressed, as this information is not provided in the retrieved context. However, it can be inferred that the prudential standard for securitisation (CPS 220) and the risk management framework may address or require addressing these risks."
+43,44,Is there a minimum expectation in regard to operating captial at the point of licensing?,"Yes, in addition to the expectation that Restricted ADIs must hold capital of at least $3 million plus a resolution reserve (typically $1 million), APRA expects a Restricted ADI to have sufficient operating capital to enable the entity to cover expenses and planned lending for typically the first three months after licensing. This may vary where appropriate, for example where an applicant has a profitable existing business. This operating capital would reduce the pressure on Restricted ADIs to raise money immediately after licensing and help ensure that the Restricted ADI has the resources it needs to operationalise during the restricted period. ","I don't know if there is a minimum expectation in regard to operating capital at the point of licensing. However, Prudential Standard APS 110 Capital Adequacy requires an ADI to maintain required levels of regulatory capital, including an Internal Capital Adequacy Assessment Process that takes into account operational risk."
+44,45,Are Restricted ADIs required to conduct some elements of banking business during the restricted phase?,"Yes, Restricted ADIs are expected to carry out some elements of banking business (i.e. at least one deposit or lending product) during the restricted phase. The Information Paper states on page 22 that APRA expects Restricted ADIs to be conducting limited business during the restricted phase. APRA strongly re-inforces this expectation. This will result in significant benefits to both the applicant and APRA, as set out below: -ensures the Restricted ADI is building both staff and operational capabilities during the restricted phase; -provides the Restricted ADI with an opportunity to test its business proposition with customers; -demonstrates to investors and potential investors that the applicant can launch a product and attract customers, which should assist the applicant in raising capital; and -allows APRA to assess the ability of the Restricted ADI to launch and manage products, providing a more informed assessment of risk management capabilities.","Yes, Restricted ADIs are required to conduct a restricted range of activities or ""restricted functions"" during the restricted phase. This includes certain types of lending and credit activities, which may be subject to APRA's restrictions."
+45,46,Does my entity need to comply with all of the Prudential Standards?,"Yes, your entity will need to comply with all of the applicable Prudential Standards. You should complete self-assessments against the requirements of the Prudential Standards. A self-assessment consists of a paragraph by paragraph review of the requirements of the prudential standard and cross references the relevant clause in your policies or otherwise contains an explanation as to why a requirement is not applicable. The purpose of the self-assessment is to enable management and the Board to gain comfort that the entity will meet the requirements or alternatively highlight areas of non-compliance that may lead to further discussions with APRA. APRA may ask to see your self-assessments. In the event that your entity is unable to meet a prudential requirement, there may be exceptional circumstances where APRA will consider a request to adjust or exclude a requirement, for example where the proposed business model is substantially different to existing models and it is not possible under this business model to comply with the requirement. You should be aware that a request to adjust or exclude a requirement of the Prudential Standard will likely add further time to the licence application due to the need to consider the proposal, including the impact on desired prudential outcomes and the precedent it would set. A request for an adjustment or exclusion of a requirement may not be approved. You should factor in time for the review of any request and have a contingency plan if the request is not granted.","The Prudential Standard specifically refers to this Standard (APS 310) as applying only to locally-incorporated ADIs, but other Prudential Standards may apply depending on your entity's circumstances. It is best to consult the specific Prudential Standard that applies to your entity."
+46,47,What is APRA's role in reviewing policies/documents?,"APRA reviews documents to assess adherence to and understanding of prudential standards, as well as to obtain a view in regard to the competency of your staff. APRA does not approve the individual policies, as ensuring the policies are suitable for your entity is the responsibility of the Board and management. APRA will seek to ensure that the policies meet the necessary prudential requirements and that APRA has confidence that they can be implemented effectively ahead of granting a licence.","APRA can require an ADI (Australian Deposit--taking Institution) to appoint an independent party to review and provide a report on their credit risk management, provisioning practices, or other aspects of their operations, including the review and testing of internal controls."
+47,48,What does APRA do?,"The Australian Prudential Regulation Authority (APRA) is the prudential regulator of the financial services industry. It oversees banks, mutuals, general insurance and reinsurance companies, life insurance, private health insurers, friendly societies, and most members of the superannuation industry.
+
+Its primary functions include Regulation and Supervision, Financial Stability, Consumer Protection, Prudential Standards, and Crisis Management.","APRA is the Australian Prudential Regulation Authority, established under the Australian Prudential Regulation Authority Act 1998. Its role includes regulating and overseeing ADIs (authorised deposit-taking institutions) to ensure their financial stability and soundness, protecting depositors' funds, and promoting public interest."
+48,49,How does APRA regulate bank lending safety?,"APRA also undertakes regular reviews and assessments of regulated entities. If APRA identifies any risks during the supervision process, it will intervene early to find a solution before an entity's ability to meet its financial obligations to its customers is threatened.","APRA regulates bank lending safety by setting limits on particular types of lending, considering factors such as credit growth and leverage, asset prices, lending conditions, and ADI financial resilience. It also requires banks to publicly disclose the level of lending against any limits specified by APRA, for a specified period."
+49,50,how does APRA regulate Consumer Protection?,"APRA's remit involves regulating financial entities in accordance with the prudential laws of the Commonwealth, setting prudential standards for those entities, monitoring compliance with those laws and standards through day-to-day supervision, and intervening early to resolve issues.","APRA regulates consumer protection by overseeing Australian deposit-taking institutions (ADIs) and requiring them to implement policies and practices that protect consumers, such as responsible lending and borrowing practices, interest rate caps, and adequate complaint handling procedures."
+50,51,Does the IRS audit my policy?,I don't have the information to answer this.,"There is no mention of the IRS in the provided text, which appears to be related to Australian banking regulations (APRA) and financial sector reporting standards. The IRS (Internal Revenue Service) is a US government agency responsible for taxation, not banking or financial regulation."
+51,52,Do I need to pay VAT for goods and services?,I don't have the information to answer this.,"The text doesn't mention the UK Value Added Tax (VAT), but it does refer to Goods and Services Tax (GST), which is Australia's equivalent tax. However, there is no mention of GST in the provided text either.
+
+But if you're referring to a different country or context, please let me know and I'll try to help."
+52,53,How can I register to the Companies House,I don't have the information to answer this.,"There is no information about registering with Companies House in the provided text. The text appears to be related to Australian banking regulations (APRA) and financial sector reporting standards, specifically for banks and other authorized deposit-taking institutions (ADIs)."
+53,54,Do American banks lend to people less than age 13?,I don't have the information to answer this.,I don't know the answer to that question. The text only provides information on Australian banking regulations and does not mention lending practices or age restrictions in the United States.
+54,55,What is the anti competitive law in America,I don't have the information to answer this.,"In the United States, the main anti-competitive laws are:
+
+1. **Sherman Act**: This federal law prohibits monopolies, bid-rigging, and price-fixing among competitors.
+2. **Clayton Antitrust Act**: This law also prohibits monopolies, bid-rigging, and price-fixing, but with some key differences from the Sherman Act.
+3. **Federal Trade Commission Act (FTCA)**: This act establishes the Federal Trade Commission (FTC), which is responsible for enforcing federal antitrust laws.
+
+Additionally, there are other relevant laws, such as:
+
+1. **Competition and Monopolization Act of 1992**: This law prohibits mergers that could substantially lessen competition or create a monopoly.
+2. **National Industrial Recovery Act of 1933**: Although this law is no longer in effect, it laid the foundation for modern antitrust law.
+
+These laws aim to promote competition, prevent monopolies, and ensure fair business practices among competitors."
+55,56,Will I need to pay tax if I live in Ireland?,I don't have the information to answer this.,"In Ireland, you will typically need to pay income tax on your earnings, regardless of where you live. However, there are some exceptions and reliefs that may affect your tax liability.
+
+**Residency**: To be considered a resident in Ireland for tax purposes, you must have been physically present in the country for at least 183 days (half a year) in any given tax year.
+
+**Tax credits**: You can claim tax credits against your income tax liability if you pay certain types of taxes or contributions abroad. These may include:
+
+* **Double taxation agreements (DTAs)**: If you're a non-resident, you might be eligible for a credit against Irish tax on foreign-earned income.
+* **Foreign income**: You can claim a credit for foreign income tax paid on your worldwide income.
+
+**Tax-free allowances**: Ireland has certain tax-free allowances, such as:
+
+* **Basic personal allowance**: A fixed amount that's exempt from income tax (currently €12,000).
+* **Standard annual allowance**: A proportion of your income subject to income tax, depending on your age and occupation.
+* **Tax-free savings threshold**: A limit on the amount you can save in certain types of investments without paying income tax.
+
+**Other taxes**: In addition to income tax, you may need to pay other taxes, such as:
+
+* **Stamp duty**: On property purchases or transfers.
+* **Value-added tax (VAT)**: On goods and services purchased in Ireland.
+* **Capital gains tax**: On the sale of certain assets, like property or shares.
+
+**Seek professional advice**: Tax laws can be complex, so it's essential to consult with a qualified tax advisor or accountant who is familiar with Irish tax law. They can help you understand your specific obligations and ensure you're taking advantage of all available reliefs and credits."
+56,57,What are the regulations for parking fines?,I don't have the information to answer this.,"I don't know the answer to your question about parking fine regulations. The provided context appears to be related to Australian financial regulation, specifically prudential standards and credit risk management, rather than traffic or parking laws. If you're looking for information on parking fines, I'd suggest checking with a relevant authority or resource."
+57,58,What are policies banking in America for Americans?,I don't have the information to answer this.,"I don't have specific knowledge about banking policies in the United States. The provided context appears to be related to Australian financial regulation and prudential standards, which may not directly apply to American banking practices. If you're looking for information on banking policies in the US, I recommend checking with relevant authorities or resources, such as the Federal Reserve or the Consumer Financial Protection Bureau (CFPB)."
+58,59,Does APRA regulate banks in Italy? ,I don't have the information to answer this.,"I don't know that APRA regulates banks in Italy. The provided context suggests that APRA (Australian Prudential Regulation Authority) is responsible for regulating financial institutions in Australia, but it does not mention Italy or any other country. If you're looking for information on banking regulation in Italy, I recommend checking with relevant Italian authorities or regulatory bodies, such as the Bank of Italy or the European Central Bank."
+59,60,What are the lending protection in London?,I don't have the information to answer this.,"I don't have information on the specific lending protections in London as per the provided context, although it does mention that lease financing is used by Australian Deposit-taking Institutions."
+60,61,Does money grow on trees?,I don't have the information to answer this.,"No, money does not grow on trees. This is a common myth or joke. In reality, money is created and managed through economic systems, financial institutions, and government regulations. It's not a physical entity that can be found growing in nature, like fruits or leaves on trees."
+61,62,Where are my keys?,I don't have the information to answer this.,"I don't have any information about your personal belongings, including where your keys might be. If you're looking for them, I recommend checking the usual places you keep them, such as a designated spot near the entrance of your home or in a specific container. If you still can't find them, it may be helpful to retrace your steps from the last time you remember using them."
+62,63,Where is the next petrol station?,I don't have the information to answer this.,"I don't have information about your current location or nearby petrol stations. I'm a text-based AI assistant and do not have real-time access to location data or GPS information. If you need to find a petrol station, I recommend using a mapping app on your smartphone or asking someone nearby for directions."
+63,64,How do I make a good apple pie?,I don't have the information to answer this.,"I don't know the specific recipe or instructions to make a perfect apple pie. However, I can suggest that you try searching online for ""classic apple pie recipe"" or ""best apple pie crust"" for some general guidance and inspiration. You may also consider using reputable cookbooks or food websites for more detailed information."
+64,65,How do I build Lego Star Wars?,I don't have the information to answer this.,"Building a Lego Star Wars set can be a fun and rewarding experience! Here's a general guide to help you get started:
+
+**Gather your tools and supplies**
+
+1. **Lego sets**: Purchase the specific Star Wars Lego set you want to build.
+2. **Lego pieces**: Make sure you have all the necessary pieces included in the set.
+3. **Building mat or plate**: A flat surface to build on, which helps prevent pieces from getting lost or damaged.
+4. **Instructions**: Read through the instructions carefully before starting construction.
+
+**Understand the instructions**
+
+1. **Follow the sequence**: Build the model according to the instructions, following the numbered steps and any additional building notes.
+2. **Pay attention to piece quantities**: Check how many of each piece you need as you build, in case you lose any during construction.
+3. **Use online resources**: If you get stuck or lost, consult online resources like Brickset, Lego Star Wars forums, or YouTube tutorials.
+
+**Build your model**
+
+1. **Start with the base plate**: Begin by building the base of the model using flat plates and tiles.
+2. **Add layers and details**: Gradually add more complex elements, such as windows, doors, and features, to the base layer.
+3. **Focus on one section at a time**: Break down the build process into manageable sections to avoid feeling overwhelmed.
+4. **Use the right pieces for the job**: Choose the correct pieces for each step, whether it's bricks, plates, or other specialized elements.
+
+**Tips and tricks**
+
+1. **Color-matching**: Use Lego's color-coding system to match pieces accurately, ensuring a seamless build.
+2. **Piece orientation**: Pay attention to piece orientations (e.g., 90-degree angles) when assembling specific parts.
+3. **Don't force it**: If a piece won't fit or doesn't look right, try rephrasing the instruction or seeking guidance from an expert.
+
+**Common issues and solutions**
+
+1. **Missing pieces**: Check if you have all necessary pieces included in the set. If not, consider purchasing additional pieces or seeking online help.
+2. **Incorrect color**: Use Lego's color-coding system to correct mistakes.
+3. **Piece fitment**: Consult instructions or seek guidance for tricky piece combinations.
+
+**Finishing touches**
+
+1. **Final checks**: Double-check your build for accuracy and completeness.
+2. **Display and showcase**: Admire your finished model and display it proudly!
+
+Remember, building a Lego Star Wars set requires patience, attention to detail, and practice. Don't be discouraged by mistakes or difficulties – they're all part of the learning process. May the Force be with you as you build!"
+65,66,How many times did my dog bark at stragners?,I don't have the information to answer this.,"I don't have any information about your dog or its behavior, so I'm not able to answer your question. If you'd like to share more context or details about what happened, I can try to help."
+66,67,Can I grow onions in Autum?,I don't have the information to answer this.,"I couldn't find any direct information about growing onions in Autumn specifically. However, I do know that onions are typically planted in early Spring or late Summer/Early Fall for a fall harvest. It's possible to plant onions in Autumn, but the optimal time may vary depending on your location and climate."
+67,68,What is APRAís role in regulating insurance companies in Australia?,"APRA is responsible for the prudential regulation of, and developing prudential policy for, authorised deposit-taking institutions; general insurance, life insurance and friendly societies, private health insurance and reinsurance companies; and most of the superannuation industry.","I don't have information about APRA's specific role in regulating insurance companies in Australia. However, I can tell you that APRA (Australian Prudential Regulation Authority) regulates various types of financial institutions and markets in Australia, including banks, credit unions, building societies, and life insurers."
+68,69,What Is the Liquidity Coverage Ratio (LCR)?,The liquidity coverage ratio (LCR) refers to the proportion of highly liquid assets that financial institutions must hold to ensure that they can meet their short-term obligations and ride out any disruptions in the market. It is mandated by international banking agreements known as the Basel Accords.,"The Liquidity Coverage Ratio (LCR) is a liquidity ratio set by APRA to ensure that Australian Deposit-Taking Institutions (ADI) have sufficient high-quality liquid assets to meet their short-term liquidity needs. It measures an ADI's ability to withstand a period of financial stress and covers 100% of its cash outflows, with some exceptions."
+69,70,Is APRA responsible for consumer complaints in the financial sector?,I don't have the information to answer this.,"I don't have information on whether APRA is specifically responsible for handling consumer complaints in the financial sector. However, it is likely that APRA would work closely with other regulatory bodies and industry organizations to address consumer complaints. Other agencies, such as the Australian Securities and Investments Commission (ASIC), may be more directly involved in resolving consumer complaints in the financial sector."
+70,71,What is the Prudential Standard CPS 234?,"CPS 234 aims to reduce cyber risk and improve cybersecurity by requiring that APRA-regulated entities maintain an information security capability commensurate with their information security vulnerabilities and threats, and employ vendor risk management practices to reduce the likelihood and impact of incidents involving related or third-parties.  ","I don't have information on the Prudential Standard CPS 234. However, I can tell you that Prudential Standards are issued by APRA (Australian Prudential Regulation Authority) to regulate and supervise financial institutions in Australia, such as banks and credit unions.
+
+If you're looking for specific information on a prudential standard, it's possible that it may be listed on the APRA website or other regulatory resources. I recommend checking with APRA or a financial industry publication for more information on CPS 234."
+71,72,What happens if an institution fails to meet APRAís capital requirements?,"Any breach of the required minimum ratios is a very significant prudential concern and would signal deficiencies in financial management or underlying financial soundness. As a result, APRA takes swift action on any potential breaches of minimum capital requirements.","According to Prudential Standard APS 001 Definitions, if APRA considers an ADI's policies, processes and practices across its credit risk activities do not meet the requirements of this Prudential Standard or otherwise considers its credit risk management deficient, APRA may require the ADI to:
+
+* Amend credit risk management policies, processes, and practices
+* Adopt appropriate credit risk management policies, processes and practices
+* Increase levels of provisions or write-offs reported
+* Otherwise increase its capital adequacy
+
+Additionally, if APRA considers an institution's excessive credit risk relative to its financial or operational capacity to manage or absorb that risk, APRA may:
+
+* Set limits on particular exposures or categories of exposures held by the institution
+* Require the institution to cease a particular type of lending or credit activity
+* Set limits on growth or share of the institution's portfolio"
+72,73,How many types of kangaroos does APRA regulate?,I don't have the information to answer this.,"I don't know. The information provided is related to Australian Prudential Regulation Authority (APRA) regulations for banks, financial institutions, and credit unions, but it does not mention kangaroos or any other type of wildlife."
+73,74,Can APRA approve pet insurance policies for endangered animals?,I don't have the information to answer this.,"I don't know. The information provided is related to Australian Prudential Regulation Authority (APRA) regulations for banks, financial institutions, and credit unions, but it does not mention pet insurance policies or endangered animals."
+74,75,Is APRA responsible for setting interest rates?,I don't have the information to answer this.,"No, I don't know if APRA sets interest rates. According to the information provided, APRA is responsible for prudential supervision of financial institutions and credit unions in Australia, including regulating the provision of interest payments through forms like ARF 117.1, but it does not appear to be directly involved in setting interest rates."
+75,76,What are APRAís stress testing requirements for banks?,"The starting point in developing a stress test is to design the scenarios. This is the foundation of the exercise, and it is important that scenarios are calibrated effectively and are well targeted. For industry stress tests, APRA collaborates with both the Reserve Bank of Australia (RBA) and Reserve Bank of New Zealand (RBNZ) on the design of scenarios and the economic parameters that define them. In 2017, APRA also engaged with the Australian Securities and Investments Commission (ASIC) in the design of the operational risk scenario.
+
+Scenarios should be aligned to the purpose of the exercise. At a high level, these are guided within APRA by several objectives ñ namely to:
+
+assess system-wide and entity-specific resilience to severe but plausible scenarios;
+improve stress testing capabilities across the industry; and
+support the identification and assessment of core and emerging risks.
+In line with these objectives, APRA developed two scenarios for the 2017 industry stress test. The first was a macroeconomic scenario with a China-led recession in Australia and New Zealand. This was considered the most severe but plausible adverse economic scenario for the banking system at the time.[1] In this scenario, there was assumed to be a fall in Australian GDP of 4 per cent, while house prices declined 35 per cent nationally over three years. The chart below provides an indication of the severity of the scenario: it shows that the assumed peak unemployment rate in the scenario was similar to the 1990s recession in Australia, the United Statesí experience in the global financial crisis (GFC), as well as recent overseas regulatory stress tests.","APRA requires banks to conduct regular stress tests on a variety of factors that can create extraordinary losses or gains in trading portfolios. Stress tests must cover a range of factors, including illiquidity/gapping of prices, concentrated positions, one-way markets, non-linear products/deep out-of-the-money positions, events and jumps-to-defaults, and other risks not captured by Value-at-Risk (VaR). The stress tests must be both quantitative and qualitative, identifying plausible scenarios to which the bank could be exposed."
+76,77,What is RWA?,"Risk-weighted asset is a bank's assets or off-balance-sheet exposures, weighted according to risk. This sort of asset calculation is used in determining the capital requirement or Capital Adequacy Ratio for a financial institution.","RWA stands for Risk-Weighted Assets, which are financial assets that have been assigned a risk weight by regulators as part of a bank's capital adequacy framework. The risk weight reflects the perceived level of risk associated with each asset, and it determines how much capital the bank must hold against those assets to ensure its own solvency."
+77,78,What is the role of APRA during a financial crisis?,Resolution ñ APRA's resolution function is directed at protecting the Australian community from financial loss and disruption by†planning for and implementing prompt and effective responses to a crisis in the financial system.,"The Australian Prudential Regulation Authority (APRA) plays a crucial role in maintaining the stability of the Australian financial system, particularly during times of financial stress or crisis. Some of the key roles of APRA during a financial crisis include:
+
+1. **Monitoring banks' capital adequacy**: APRA ensures that authorized deposit-taking institutions (ADIs), such as banks and building societies, maintain sufficient capital to absorb losses.
+2. **Identifying potential risks**: APRA monitors market conditions, credit risk, and operational risk to identify potential threats to financial stability.
+3. **Providing regulatory guidance**: During a crisis, APRA provides urgent guidance to ADIs on how to manage their risks, maintaining the stability of the financial system.
+4. **Enforcing compliance with regulations**: APRA takes swift action to enforce compliance with prudential standards and other regulatory requirements to prevent widespread harm.
+5. **Coordinating with other regulators**: APRA works closely with other Australian financial regulators, such as ASIC (Australian Securities & Investments Commission), to coordinate a unified response to the crisis.
+6. **Maintaining liquidity**: APRA ensures that ADIs maintain sufficient liquidity to meet their short-term funding needs, which helps prevent a freeze in credit markets.
+7. **Providing assistance to troubled institutions**: In extreme cases, APRA may provide financial assistance or support to ADIs experiencing significant distress.
+
+By taking these actions, APRA helps to maintain confidence in the financial system, prevent widespread instability, and minimize the impact of a crisis on the broader economy."
+78,79,How many koalas need to join a bank for APRA to intervene?,I don't have the information to answer this.,"I don't know the answer, as there is no information in the provided context about how many koalas are required to join a bank for APRA to intervene."
+79,80,What is the purpose of APRAís Prudential Standard APS 330?,"Australian Prudential Standard APS 330 'Public Disclosure', requires ADI's to undertake periodic disclosure of information on their capital adequacy, capital instrument and remuneration practices†to contribute to the transparency of financial markets and to enhance market discipline.","APRA's Prudential Standard APS 330 Public Disclosure requires authorized deposit-taking institutions (ADIs) to publicly disclose key information on their capital, risk exposures, remuneration practices, and other relevant details. The purpose of this standard is to:
+
+1. **Promote transparency**: Increase transparency and accountability in the financial sector.
+2. **Enhance investor confidence**: Provide investors with timely and accurate information about ADIs' financial health and stability.
+3. **Support regulatory oversight**: Enable APRA to more effectively monitor and regulate ADIs, maintaining the stability of the financial system.
+
+By requiring ADIs to disclose their key information publicly, APS 330 aims to provide a clear picture of an institution's financial position and performance, helping to maintain public trust in the banking sector."
